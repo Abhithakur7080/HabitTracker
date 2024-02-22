@@ -5,7 +5,7 @@ module.exports.home = async function(req, res) {
   try {
     const habits = await Habit.find({});
     return res.render('home', {
-      title: "LoopBit",
+      title: "Habit Tracker",
       habit_list: habits
     });
   } catch (err) {
