@@ -13,8 +13,8 @@ app.set("views", path.join(__dirname, "views"));
 // extract style and scripts from subpages to layout
 app.set("layout extractStyles", true);
 app.set("layout extractScripts", true);
-//Use router
-app.use(express.urlencoded());
+//Use routerapp.use(express.urlencoded({ extended: false }));
+app.use(express.urlencoded({ extended: false }));
 app.use(express.static("./assets"));
 app.use(expressLayout);
 // require mongoose
