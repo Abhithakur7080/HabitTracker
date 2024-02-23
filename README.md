@@ -10,7 +10,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the terminal.
 
 ### `Hosted On`
-open [https://abhithakur7080-react-album.netlify.app/](https://abhithakur7080-react-album.netlify.app/) to view it in your browser
+open [https://habittracker-zcey.onrender.com](https://habittracker-zcey.onrender.com) to view it in your browser
 
 # Brief Intro about the Website
 `LoopBit` is a habit tracker website made using NodeJS, MongoDB and vanilla JavaScript.
