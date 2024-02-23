@@ -1,4 +1,4 @@
-# HabitTracker (LoopBit)
+# HabitTracker
  Habit Tracker Application `NodeJS` (named `Habit Tracker`)
 
 ### `npm start`
