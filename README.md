@@ -13,7 +13,7 @@ You may also see any lint errors in the terminal.
 open [https://habittracker-zcey.onrender.com](https://habittracker-zcey.onrender.com) to view it in your browser
 
 # Brief Intro about the Website
-`LoopBit` is a habit tracker website made using NodeJS, MongoDB and vanilla JavaScript.
+`Habit Tracker` is a tracker website made using NodeJS, MongoDB and vanilla JavaScript.
 Here you can keep a record of your day to day habits.You can create a habit and check you record for past few days.
 We can also remove a habit which we don't need anymore.
 
